@@ -1,0 +1,19 @@
+.list {
+  margin-right: 20px;
+  opacity: 0.5;
+  margin-left: 0px;
+}
+
+.show {
+  opacity: 1;
+}
+
+.image {
+  height: 80px;
+  width: 80px;
+}
+
+.border {
+  border-width: 0px;
+  background-color: #ffffff;
+}
